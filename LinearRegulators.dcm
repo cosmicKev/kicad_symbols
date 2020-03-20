@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS73533
+F http://www.ti.com/lit/ds/symlink/tps735.pdf
+$ENDCMP
+#
+#End Doc Library
