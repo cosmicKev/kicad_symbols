@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +24V_LED
+D Power symbol creates a global label with name "+24_LED"
+K power-flag
+$ENDCMP
+#
+#End Doc Library
