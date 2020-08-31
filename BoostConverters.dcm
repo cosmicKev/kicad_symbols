@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT8365
+D BOOST CONVERTER, HV, 150V Output Max
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LT8365.pdf
+$ENDCMP
+#
+#End Doc Library
