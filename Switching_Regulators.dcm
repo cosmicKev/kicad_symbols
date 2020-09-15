@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT8304-1
+D 100VIN Micropower, No-Opto Isolated Flyback, Converter with 150V/2A Switch
+K FlyBack, buck, boost
+F https://www.analog.com/media/en/technical-documentation/data-sheets/8304fa.pdf
+$ENDCMP
+#
+#End Doc Library
