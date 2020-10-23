@@ -5,4 +5,9 @@ D http://aosmd.com/res/data_sheets/AOZ1283PI.pdf
 F http://aosmd.com/res/data_sheets/AOZ1283PI.pdf
 $ENDCMP
 #
+$CMP AP63203WU-7
+D 3.8V TO 32V INPUT, 2A LOW IQ SYNCHRONOUS BUCK WITH ENHANCED EMI REDUCTION
+F https://nl.mouser.com/datasheet/2/115/AP63200-AP63201-AP63203-AP63205-1525010.pdf
+$ENDCMP
+#
 #End Doc Library

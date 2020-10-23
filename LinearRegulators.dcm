@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TLV742P
+D TLV742P 200-mA, Small Size, Low-Dropout Linear Voltage Regulator
+K LDO
+F https://www.ti.com/lit/ds/symlink/tlv742p.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&DCM=yes&ref_url=https%3A%2F%2Fnl.mouser.com%2F&distId=26
+$ENDCMP
+#
 $CMP TPS73533
 F http://www.ti.com/lit/ds/symlink/tps735.pdf
 $ENDCMP
