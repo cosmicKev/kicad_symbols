@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G030K6T6TR
+F https://nl.mouser.com/datasheet/2/389/stm32g030c6-1826662.pdf
+$ENDCMP
+#
+#End Doc Library
